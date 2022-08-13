@@ -23,5 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 ### film details
 ![2](https://user-images.githubusercontent.com/92827404/184485290-113e1acd-c3cc-4574-b2ec-fe06152b2f5d.jpeg)
 
-![3](https://user-images.githubusercontent.com/92827404/184485411-a790e956-ec0e-417c-9745-126fdb1dae7e.jpeg)
 ![4](https://user-images.githubusercontent.com/92827404/184485539-f1f9bead-2736-42ba-87f4-68ab57ab32aa.jpeg)
